@@ -19,7 +19,7 @@ Hệ thống được triển khai theo pipeline sau (hình minh họa bên dư�
 - scikit-learn: huấn luyện và đánh giá mô hình (RandomForestClassifier,...).
 - Matplotlib: trực quan hóa dữ liệu/ROC, hỗ trợ phân tích.
 
-@image1.jpg
+![Pipeline tổng quan](image1.jpg)
 
 ## 2. Cấu trúc thư mục
 - `app.py`: Ứng dụng Streamlit phục vụ suy luận (inference) trực tiếp từ mô hình đã huấn luyện.

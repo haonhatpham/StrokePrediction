@@ -7,6 +7,9 @@ Dự án nhỏ trong khuôn khổ khóa học Samsung Innovation Campus (SIC) n�
 - Đóng gói mô hình (Random Forest) và bộ chuẩn hóa (StandardScaler) để suy luận thời gian thực.
 - Cung cấp giao diện web đơn giản giúp nhập liệu và xem kết quả dự đoán (Streamlit).
 
+### Demo trực tuyến
+@https://strokeprediction-vhrpkzfyrvn3pieojr24eb.streamlit.app/
+
 ## 1.1. Quy trình (Pipeline)
 Hệ thống được triển khai theo pipeline sau (hình minh họa bên dưới):
 
